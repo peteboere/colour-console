@@ -1,0 +1,18 @@
+{
+    "name": "colour-console",
+    "version": "0.5.0",
+    "description": "Simple colour wrapper for the native console object.",
+    "author": "Pete Boere <pete@the-echoplex.net> (https://github.com/peteboere)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/peteboere/colour-console.git"
+    },
+    "dependencies": {
+        "colors": "^1.1.2"
+    },
+    "engineStrict" : true,
+    "engines" : {
+        "node" : ">=4.0.0"
+    },
+    "license": "MIT"
+}
